@@ -1,0 +1,1 @@
+# Check_if_an_array_has_good_neighbours_numbers
